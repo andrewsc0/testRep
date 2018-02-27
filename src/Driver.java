@@ -9,6 +9,8 @@ public class Driver {
 		int hops2 = pad.hoeManyHopsOp(3, 2);
 		System.out.println("With looping: " + hops);
 		System.out.println("Without looping: " + hops2);
+		
+		pad.getNum();
 
 	}
 
